@@ -1,5 +1,0 @@
-d:
-cd 22_06 doc\T-Git\1
-git init
-git config --global -l
-git status
