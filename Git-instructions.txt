@@ -75,3 +75,9 @@ new file: js/validacion.js
 
 #el historico completo asi hubieramos revertido los cambios
 >git reflog
+
+#regresar a un commit
+>git reset --mixed id..................etc
+#manteniendo los cambios dentro de los archivos
+
+
